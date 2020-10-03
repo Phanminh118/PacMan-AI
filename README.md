@@ -2,7 +2,7 @@
 
 ## **[18020916 | K63J] - [Phan Van Minh]
 
-![Question 1](./done/pacman.gif)
+![Question 1]
 
 ### **Normal Game**
 
